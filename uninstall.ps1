@@ -7,6 +7,7 @@ if ($null -eq $latestVersionFolder) {
 else {
     $clientSettingsFolder = Join-Path $latestVersionFolder.FullName "ClientSettings"
     if (Test-Path $clientSettingsFolder) {
+        Write-Output "Uninstalling tweaks from: $clientSettingsFolder"
         Remove-Item -Recurse -Force $clientSettingsFolder
         Write-Output "[Success] RCO uninstalled."
     }
