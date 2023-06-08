@@ -17,10 +17,19 @@
 
 - [Releases](https://github.com/etcherfx/RCOInstaller/releases)
 
-## Installation
+## Usage
+
+### Installation
 
 - Download the latest version from [releases](https://github.com/etcherfx/RCOInstaller/releases/latest)
-- Right click on `install.ps1` in your file explorer and click `Run with Powershell`
+- Extract the contents from `RCOInstaller_$VERSION.zip`
+- Right click on `install.ps1` in the Windows file explorer and click `Run with Powershell`
+- Wait until it finishes then press any key to exit
+
+### Uninstallation
+
+- Follow the first two steps from the [Installation](https://github.com/etcherfx/RCOInstaller#installation) part
+- Right click `uninstall.ps1` in the Windows file explorer and click `Run with Powershell`
 - Wait until it finishes then press any key to exit
 
 ## Credits
