@@ -25,4 +25,4 @@
 
 ## Credits
 
-- All credit for the tweaks goes to [LBX](https://github.com/L8X)
+- All credit for the tweaks goes to [L8X](https://github.com/L8X)
