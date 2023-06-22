@@ -10,6 +10,7 @@
 [![License](https://img.shields.io/github/license/etcherfx/RCOInstaller?style=for-the-badge)](https://github.com/etcherfx/RCOInstaller/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/etcherfx/RCOInstaller?style=for-the-badge)](https://github.com/etcherfx/RCOInstaller/issues) <br>
 [![GitHub Release](https://img.shields.io/github/release/etcherfx/RCOInstaller?include_prereleases&style=for-the-badge)](https://github.com/etcherfx/RCOInstaller/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/etcherfx/RCOInstaller/total?style=for-the-badge)](https://github.com/etcherfx/RCOInstaller/releases/latest)
 
 </div>
 
