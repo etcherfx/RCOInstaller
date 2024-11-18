@@ -14,6 +14,9 @@
 
 </div>
 
+> [!WARNING]
+> This project has been deprecated, please use [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) for RCO now.
+
 ## Links
 
 - [Releases](https://github.com/etcherfx/RCOInstaller/releases)
